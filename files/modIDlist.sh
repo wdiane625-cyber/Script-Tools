@@ -1,5 +1,5 @@
 #!/bin/sh
-# filepath: modIDlist.sh
+# filepath:gummy_foods
 
 # Initialize variables
 HERE="$(pwd)"
